@@ -1,5 +1,5 @@
  💫 About Me:
-Currently working on Frontend development<br>I’m a **Frontend Developer** passionate about building **scalable, user-friendly web applications**.  <br>I love **React, TypeScript, and Tailwind CSS** and enjoy learning new technologies.  <br><br>### 💻 Tech Stack<br>- **Frontend:** React, TypeScript, HTML, CSS, Tailwind CSS, Redux Toolkit, Framer Motion  <br>- **Backend:** Node.js, Strapi, Vendure  <br>- **Databases:** PostgreSQL  <br>- **Tools & Platforms:** Git, GitHub, VS Code, Figma, Postman  <br>
+Currently working on Frontend development<br>I’m a **Frontend Developer** passionate about building **scalable, user-friendly web applications**.  <br>I love **React, TypeScript, and Tailwind CSS** and enjoy learning new technologies.  <br><br>💻 Tech Stack<br>- **Frontend:** React, TypeScript, HTML, CSS, Tailwind CSS, Redux Toolkit, Framer Motion  <br>- **Backend:** Node.js, Strapi, Vendure  <br>- **Databases:** PostgreSQL  <br>- **Tools & Platforms:** Git, GitHub, VS Code, Figma, Postman  <br>
 
 
 🌐 Socials:
